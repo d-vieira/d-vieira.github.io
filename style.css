@@ -1,0 +1,31 @@
+<style>
+  .nameClass {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+  }
+
+  .descriptionClass {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  }
+
+  .bornClass {
+    font-weight: 900;
+  }
+
+  .skillUnix {
+    font-size: 18px;
+  }
+
+  .skillShell {
+    font-size: 20px;
+  }
+
+  .skillGitHub {
+    font-size: 21px;
+  }
+
+  body {
+    background-color: #5C677D;
+  }
+
+</style>

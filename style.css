@@ -13,10 +13,12 @@
 }
 
 #picture {
+  display: inline;
 
 }
 
 #description {
+  display: inline;
 
 }
 

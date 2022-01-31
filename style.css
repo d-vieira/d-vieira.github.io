@@ -1,31 +1,50 @@
-<style>
-  .nameClass {
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+#page {
+
+}  
+
+#mainTittle {
+
+}
+
+#picture {
+
+}
+
+#description {
+
+}
+
+.nameClass {
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
   }
 
-  .descriptionClass {
+.descriptionClass {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
   }
 
-  .bornClass {
+.bornClass {
     font-weight: 900;
   }
 
-  .skillUnix {
+.skillUnix {
     font-size: 18px;
   }
 
-  .skillShell {
+.skillShell {
     font-size: 20px;
   }
 
-  .skillGitHub {
+.skillGitHub {
     font-size: 21px;
   }
 
-  body {
+body {
     background-color: #5C677D;
   }
-
-</style>
